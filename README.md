@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Daniel's CV
 
-You can use the [editor on GitHub](https://github.com/ThundroD/MyCV/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Table of Content
+* Name
+* About the Project
+* Installation
+* How to Use
+* Thanks and Credits
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Name
+**Daniel Montague's CV**
 
-### Markdown
+## ABOUT
+This is my CV, it includes an about me section, education, work experience, and professional social media links. If you'd like to connect, click and add me.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation
+You can view this on https://thundrod.github.io/MyCV/ or you can download it and put it on your own server.
 
-```markdown
-Syntax highlighted code block
+## How to Use
+You can view this on https://thundrod.github.io/MyCV/. There is a nav bar at the top to easily jump to different sections of the page. It's a CV, so if you like what you see hire me! See a screenshot of part of the website CV.
+![animation](images/cvscreenshot.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThundroD/MyCV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Shout Outs and Credits
+I'd like to thank HyperionDev careers@hyperiondev.com and my mentor Dayle Klinkhame daylek@hyperiondev.com for their guidance on the course and this assignment.
